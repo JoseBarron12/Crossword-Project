@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Crossword Program! This C++ program is designed to assist users in creating and solving crosswords. The program provides a user-friendly interface for creating crossword puzzles, inputting clues, and solving puzzles.
+Welcome to the Crossword Program! This C++ program is designed to assist users in creating and solving crosswords. The program provides a user-friendly interface for creating crossword puzzles, and solving puzzles.
 
 ## Features
 
